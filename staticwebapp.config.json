@@ -10,8 +10,7 @@
               "clientSecretSettingName": "B2C_SECRET"
             },
             "openIdConnectConfiguration": {
-              "wellKnownOpenIdConfiguration": "
-https://b2cwpfdesktopapps.b2clogin.com/b2cwpfdesktopapps.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_susi"
+              "wellKnownOpenIdConfiguration": "https://b2cwpfdesktopapps.b2clogin.com/b2cwpfdesktopapps.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_susi"
             }
           },
           "login": {
